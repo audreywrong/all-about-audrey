@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/all-about-audrey',
   siteMetadata: {
     title: `Flexible Gatsby`,
     description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
@@ -41,7 +42,7 @@ module.exports = {
             resolve: `gatsby-remark-katex`,
             options: {
               strict: `warn`,
-            }
+            },
           },
           {
             resolve: `gatsby-remark-copy-linked-files`,
