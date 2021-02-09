@@ -1,7 +1,7 @@
 import { Link } from 'gatsby'
 import React from 'react'
 
-import Logo from './pic.jpg'
+import Headshot from './headshot.jpg'
 
 const Sidebar = ({ siteMetadata }) => (
   <>
@@ -10,7 +10,7 @@ const Sidebar = ({ siteMetadata }) => (
         <div className="about">
           <div className="cover-author-image">
             <Link to="/">
-              <img src={Logo} alt={siteMetadata.author} />
+              <img src={Headshot} alt={siteMetadata.author} />
             </Link>
           </div>
           <div className="author-name">{siteMetadata.author}</div>
@@ -31,7 +31,7 @@ const Sidebar = ({ siteMetadata }) => (
                 </a>
               </li>
             )}
-            {siteMetadata.social.facebook && (
+            {/* {siteMetadata.social.facebook && (
               <li>
                 <a
                   href={`https://facebook.com/${siteMetadata.social.facebook}`}
@@ -40,7 +40,7 @@ const Sidebar = ({ siteMetadata }) => (
                   <i className="fa fa-facebook" aria-hidden="true" />
                 </a>
               </li>
-            )}
+            )} */}
             {siteMetadata.social.github && (
               <li>
                 <a

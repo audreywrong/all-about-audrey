@@ -2,15 +2,15 @@ module.exports = {
   pathPrefix: '/all-about-audrey',
   siteMetadata: {
     title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
+    description: `I am a web developer, baker, dog mom, gym rat, hiker, traveler, gamer, music lover and all around nerd. Welcome to my musings!`,
+    author: `Audrey Wright`,
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
     social: {
-      twitter: `wang0nya`,
+      twitter: `/audwrong`,
       facebook: ``,
-      github: `wangonya`,
-      linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      github: `/audreywrong`,
+      linkedin: `/audreylwright/`,
+      email: `audreywrong@gmail.com`,
     },
   },
   plugins: [
