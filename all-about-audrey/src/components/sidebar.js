@@ -20,6 +20,16 @@ const Sidebar = ({ siteMetadata }) => (
       <footer>
         <section className="contact">
           <h3 className="contact-title">Contact me</h3>
+          <div className="portfolio">
+            <p className="portfolio-link">Please visit my</p>
+            <a
+              className="portfolio-link"
+              href="https://audreywrong.github.io/personalwebsite-react/"
+              target="_blank"
+            >
+              Personal Portfolio
+            </a>
+          </div>
           <ul>
             {siteMetadata.social.twitter && (
               <li>
