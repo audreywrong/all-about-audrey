@@ -1,4 +1,17 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+## view the project
+
+The project is deployed via GitHub pages [here](https://audreywrong.github.io/all-about-audrey/).
+
+Once you view the greeting screen, select "Baking Game" to play my in-browser game! There's a cheat code if you can figure it out! ;)
+
+## about the app
+
+Built With: Gatsby
+
+Features: sidebar, blog posts
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
@@ -49,8 +62,9 @@ Inspired by [flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll).
     Edit `gatsby.config.js` to update site metadata.
 
     Add blog posts in markdown in `content/blog`. Example blog posts have been provided.
-    
+
 ## Contributors
 
 Much thanks to these contributors for making this project awesome:
+
 - [@sparky005](https://github.com/sparky005)
