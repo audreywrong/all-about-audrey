@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '/all-about-audrey',
   siteMetadata: {
-    title: `Flexible Gatsby`,
+    title: `All About Audrey`,
     description: `I am a web developer, baker, dog mom, gym rat, hiker, traveler, gamer, music lover and all around nerd. Welcome to my musings!`,
     author: `Audrey Wright`,
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
@@ -73,7 +73,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `./static/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `./static/skulllogo.png`, // This path is relative to the root of the site.
       },
     },
     // `gatsby-plugin-offline`,
