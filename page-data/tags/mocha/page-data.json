@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/mocha/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/node-mocha-ts/"},"frontmatter":{"title":"Introduction to Node + Mocha + TypeScript","date":"March 21, 2021"}}}]}},"pageContext":{"tag":"mocha"}},"staticQueryHashes":["2478211480"]}
