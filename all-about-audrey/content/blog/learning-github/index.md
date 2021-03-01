@@ -2,7 +2,7 @@
 title: Learning GitHub!
 date: 2021-02-08 20:21:00 +0300
 description: # Add post description (optional)
-img: ./github-logo.png
+img: ../assets/github-logo.png
 tags: [GitHub, coding, learn to code] # add tag
 ---
 
