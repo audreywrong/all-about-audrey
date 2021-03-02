@@ -1,6 +1,6 @@
 ---
 title: Introduction to Node + Mocha + TypeScript
-date: 2021-03-21 20:21:00 +0300
+date: 2021-03-01 20:21:00 +0300
 description: # Add post description (optional)
 img: ../../assets/node.png
 tags: [node, mocha, typescript, coding, learn to code] # add tag
